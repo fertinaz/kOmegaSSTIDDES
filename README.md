@@ -2,6 +2,7 @@
 k-omega SST IDDES model adapted to OF-5.0 version
 
 Installation:
+---------------
 01- Create $WM_PROJECT_USER_DIR/src under the OpenFOAM directory 
     and extract the TurbulenceModels.tar.gz into this folder.
 
